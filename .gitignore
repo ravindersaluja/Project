@@ -1,0 +1,5 @@
+.DS_Store
+secrets.txt
+
+#Pod files to be ignored 
+#If you write *.txt all the .txt files will be ignored when committed
